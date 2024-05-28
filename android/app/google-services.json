@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "228259860759",
+    "project_id": "ecommercedentista-acf93",
+    "storage_bucket": "ecommercedentista-acf93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228259860759:android:6e17c757737286ad722752",
+        "android_client_info": {
+          "package_name": "com.example.delivery_app_cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228259860759-3vafvpea4neoulmv8u3d4i9rl17rnmuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delivery_app_cliente",
+            "certificate_hash": "b8392ea73e9af0a67b5940f0127765a77ca2f3c4"
+          }
+        },
+        {
+          "client_id": "228259860759-8qntffucidg140gabdldipavnlsg98lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_GnFE7Ei5fHdmdWgcCD6xdfgUNR_AKXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228259860759-8qntffucidg140gabdldipavnlsg98lu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228259860759-8pbp3r9feqng6vfijh8s75kko0ctj4vt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deliveryAppCliente"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
